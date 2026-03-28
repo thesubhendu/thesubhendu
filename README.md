@@ -21,8 +21,3 @@ I run **[Webdevmatics](https://youtube.com/webdevmatics)** — a YouTube channel
 PHP 8 · Laravel · Vue.js 3 · PostgreSQL · MySQL · Redis · Docker · AWS
 
 PHPStan, PHPCS, TDD — not optional, just how I work.
-
----
-
-📺 [youtube.com/webdevmatics](https://youtube.com/webdevmatics)
-💼 [linkedin.com/in/thesubhendu](https://linkedin.com/in/thesubhendu)
